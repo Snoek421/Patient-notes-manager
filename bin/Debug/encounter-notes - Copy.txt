@@ -1,0 +1,3 @@
+1|Phineas Flynn|25 Apr 1996|ADD;Delusions of Grandeur|BP: 120/84;BP: 135/95;;ADD controlled by medication
+2|Ferb Fletcher|03 Mar 1996|Mostly Mute;funny looking head|BP: 115/78;BP: 120/80;;Only vocally talks to his brother
+3|Casey Snoek|13 Mar 1994|Gluten Intolerance;Bursitis in rotator cuff|BP 130/78;BP: 125/95;;Light carpal tunnel in right wrist
